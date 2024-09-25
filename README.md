@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ziya-Rahman
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning dotnet core
+- 🌱 I’m currently learning dotnet
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me through email
 
